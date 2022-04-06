@@ -22,15 +22,18 @@ Dapat dilakukan dengan cara membuat fungsi selesai, dengan get untuk mendapatkan
 
 *bonus*
 4. Buat tombol Subject yang berfungsi untuk mengurutkan tampilan data sesuai subject secara ascending.
+
 5. Buat tombol Priority yang berfungsi untuk mengurutkan tampilan data sesuai priority secara ascending.
+
 6. Buat tombol Deadline yang berfungsi untuk mengurutkan tampilan data sesuai deadline secara ascending.
+
 7. Buat tombol Status yang berfungsi untuk mengurutkan tampilan data sesuai status secara ascending.
 
 Jawaban 4-7
 Dapat dilakukan dengan cara mengassign "a href" pada tiap judul tabel sehingga link berubah menjadi index.php/(nama kode) = (isi kode).
 Lalu gunakan fungsi $_GET[nama kode] untuk mendapatkan isi kode yang nantinya dapat menjadi penentu atribut mana yang ingin diurutkan
   
-9. Buat tombol Reset yang berfungsi untuk mengembalikan sesuai urutan awal data.
+8. Buat tombol Reset yang berfungsi untuk mengembalikan sesuai urutan awal data.
 Dapat dilakukan dengan cara menambahkan "a href reset" yang nantinya akan meredirect ke link awal, yaitu index.php.
 
 ------------------
