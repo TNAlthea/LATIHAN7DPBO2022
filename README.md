@@ -59,6 +59,5 @@ Dapat dilakukan dengan cara menambahkan "a href reset" yang nantinya akan meredi
 ### Sort
 ![Screenshot 2022-04-06 21 37 38](https://user-images.githubusercontent.com/99664611/162000227-70faeca0-2b03-4fa9-ae9e-0fbec184c670.png)
 
-  
-###Reset
+### Reset  
 ![Screenshot 2022-04-06 21 37 52](https://user-images.githubusercontent.com/99664611/162000297-c4b1c2a0-10cb-4947-894e-787b62c1940e.png)
