@@ -21,6 +21,7 @@ Dapat dilakukan dengan cara membuat fungsi delete, namun kali ini menggunakan ge
 Dapat dilakukan dengan cara membuat fungsi selesai, dengan get untuk mendapatkan lokasi record yang diubah.
 
 *bonus*
+
 4. Buat tombol Subject yang berfungsi untuk mengurutkan tampilan data sesuai subject secara ascending.
 
 5. Buat tombol Priority yang berfungsi untuk mengurutkan tampilan data sesuai priority secara ascending.
