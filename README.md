@@ -7,7 +7,7 @@ Repository ini bertujuan untuk memenuhi tugas latihan 7 pada mata kuliah Desain 
 - Program Studi/Kelas : Ilmu Komputer/C2
 - NIM : 2005021
 
-*Saya Sabian Annaya Havid mengerjakan Latihan 5 dalam mata kuliah Desain Pemograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*
+*Saya Sabian Annaya Havid mengerjakan Latihan 7 dalam mata kuliah Desain Pemograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*
 
 ------------------
 ## Penjelasan/Konsep program
@@ -32,7 +32,7 @@ Dapat dilakukan dengan cara membuat fungsi selesai, dengan get untuk mendapatkan
 
 Jawaban 4-7
 Dapat dilakukan dengan cara mengassign "a href" pada tiap judul tabel sehingga link berubah menjadi index.php/(nama kode) = (isi kode).
-Lalu gunakan fungsi $_GET[nama kode] untuk mendapatkan isi kode yang nantinya dapat menjadi penentu atribut mana yang ingin diurutkan
+Lalu gunakan fungsi $_GET[nama kode] untuk mendapatkan isi kode yang nantinya dapat menjadi penentu atribut mana yang ingin diurutkan dengan fungsi
   
 8. Buat tombol Reset yang berfungsi untuk mengembalikan sesuai urutan awal data.
 Dapat dilakukan dengan cara menambahkan "a href reset" yang nantinya akan meredirect ke link awal, yaitu index.php.
